@@ -1,0 +1,1621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<price date="01.04.2020 18:15:13">
+    <catalog>
+        <category id="1040">Посуда - ложки</category>
+        <category id="1059">Столовые приборы</category>
+    </catalog>
+    <items>
+        <item id="423">
+            <name>Ложка 50 Шахматы</name>
+            <categoryId>1040</categoryId>
+            <price>1225.8</price>
+            <image>Ложка 50 Шахматы 8100181.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100181</vendorCode>
+            <description><![CDATA[Ложка 50 Шахматы]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">21.61 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="79316">
+            <name>Нож Шахматы</name>
+            <categoryId>1059</categoryId>
+            <price>2716.2</price>
+            <image>Нож Шахматы 8100249.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100249</vendorCode>
+            <description><![CDATA[Нож Шахматы]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">41.63 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">26.70 гр.</param>
+        </item>
+        <item id="15380">
+            <name>Ложка 1</name>
+            <categoryId>1040</categoryId>
+            <price>844.2</price>
+            <image>Ложка 1 8100024.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100024</vendorCode>
+            <description><![CDATA[Ложка 1]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">13.54 гр.</param>
+            <param name="вес (в золоте)">16.78 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="15381">
+            <name>Ложка 2</name>
+            <categoryId>1040</categoryId>
+            <price>1269</price>
+            <image>Ложка 2 8100025.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100025</vendorCode>
+            <description><![CDATA[Ложка 2]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.80 гр.</param>
+            <param name="вес (в золоте)">25.94 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="16909">
+            <name>Ложка 3 Король</name>
+            <categoryId>1040</categoryId>
+            <price>1369.8</price>
+            <image>Ложка 3 Король 8100033.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100033</vendorCode>
+            <description><![CDATA[Ложка 3 Король]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.28 гр.</param>
+            <param name="вес (в золоте)">29.96 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="16910">
+            <name>Ложка 4 Цветы</name>
+            <categoryId>1040</categoryId>
+            <price>1292.4</price>
+            <image>Ложка 4 Цветы 8100034.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100034</vendorCode>
+            <description><![CDATA[Ложка 4 Цветы]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.46 гр.</param>
+            <param name="вес (в золоте)">27.18 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="16911">
+            <name>Ложка 5 Мишка</name>
+            <categoryId>1040</categoryId>
+            <price>1400.4</price>
+            <image>Ложка 5 Мишка 8100035.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100035</vendorCode>
+            <description><![CDATA[Ложка 5 Мишка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.96 гр.</param>
+            <param name="вес (в золоте)">29.78 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="16912">
+            <name>Ложка 6 Ажурная</name>
+            <categoryId>1040</categoryId>
+            <price>1425.6</price>
+            <image>Ложка 6 Ажурная 8100036.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100036</vendorCode>
+            <description><![CDATA[Ложка 6 Ажурная]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.98 гр.</param>
+            <param name="вес (в золоте)">33.68 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="16913">
+            <name>Ложка 7 Конек</name>
+            <categoryId>1040</categoryId>
+            <price>1395</price>
+            <image>Ложка 7 Конек 8100037.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100037</vendorCode>
+            <description><![CDATA[Ложка 7 Конек]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.97 гр.</param>
+            <param name="вес (в золоте)">25.60 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="16914">
+            <name>Ложка 8 Рыбка</name>
+            <categoryId>1040</categoryId>
+            <price>1393.2</price>
+            <image>Ложка 8 Рыбка 8100038.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100038</vendorCode>
+            <description><![CDATA[Ложка 8 Рыбка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.90 гр.</param>
+            <param name="вес (в золоте)">24.72 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="17325">
+            <name>Ложка 9 Бабочка эм</name>
+            <categoryId>1040</categoryId>
+            <price>2568.6</price>
+            <image>Ложка 9 Бабочка эм 8100043.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100043</vendorCode>
+            <description><![CDATA[Ложка 9 Бабочка эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">47.72 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="17349">
+            <name>Ложка 10 Айвенго</name>
+            <categoryId>1040</categoryId>
+            <price>2583</price>
+            <image>Ложка 10 Айвенго 8100044.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100044</vendorCode>
+            <description><![CDATA[Ложка 10 Айвенго]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">48.69 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="17362">
+            <name>Ложка 11 Цветок эм</name>
+            <categoryId>1040</categoryId>
+            <price>2601</price>
+            <image>Ложка 11 Цветок эм 8100045.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100045</vendorCode>
+            <description><![CDATA[Ложка 11 Цветок эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">47.90 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="17471">
+            <name>Ложка 12 Часики</name>
+            <categoryId>1040</categoryId>
+            <price>1794.6</price>
+            <image>Ложка 12 Часики 8100048.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100048</vendorCode>
+            <description><![CDATA[Ложка 12 Часики]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">34.06 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="17711">
+            <name>Ложка 13 Ласточка</name>
+            <categoryId>1040</categoryId>
+            <price>1636.2</price>
+            <image>Ложка 13 Ласточка 8100049.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100049</vendorCode>
+            <description><![CDATA[Ложка 13 Ласточка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">30.35 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="17712">
+            <name>Ложка 14 Петушок эм</name>
+            <categoryId>1040</categoryId>
+            <price>1827</price>
+            <image>Ложка 14 Петушок эм 8100050.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100050</vendorCode>
+            <description><![CDATA[Ложка 14 Петушок эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">32.47 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="17873">
+            <name>Ложка 15 Клубничка</name>
+            <categoryId>1040</categoryId>
+            <price>2667.6</price>
+            <image>Ложка 15 Клубничка 8100052.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100052</vendorCode>
+            <description><![CDATA[Ложка 15 Клубничка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">51.45 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="18042">
+            <name>Ложка 16 Колосок</name>
+            <categoryId>1040</categoryId>
+            <price>1683</price>
+            <image>Ложка 16 Колосок 8100054.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100054</vendorCode>
+            <description><![CDATA[Ложка 16 Колосок]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">31.46 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="18043">
+            <name>Ложка 17 Украина</name>
+            <categoryId>1040</categoryId>
+            <price>1675.8</price>
+            <image>Ложка 17 Украина 8100055.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100055</vendorCode>
+            <description><![CDATA[Ложка 17 Украина]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">31.31 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="18044">
+            <name>Ложка 18 Незабудки</name>
+            <categoryId>1040</categoryId>
+            <price>1672.2</price>
+            <image>Ложка 18 Незабудки 8100056.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100056</vendorCode>
+            <description><![CDATA[Ложка 18 Незабудки]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">31.19 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="18166">
+            <name>Ложка 19</name>
+            <categoryId>1040</categoryId>
+            <price>1261.8</price>
+            <image>Ложка 19 8100058.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100058</vendorCode>
+            <description><![CDATA[Ложка 19]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.65 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="19810">
+            <name>Ложка 20 Кораблик</name>
+            <categoryId>1040</categoryId>
+            <price>1659.6</price>
+            <image>Ложка 20 Кораблик 8100067.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100067</vendorCode>
+            <description><![CDATA[Ложка 20 Кораблик]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">30.72 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="19811">
+            <name>Ложка 21 Ангел-хранитель</name>
+            <categoryId>1040</categoryId>
+            <price>1045.8</price>
+            <image>Ложка 21 Ангел-хранитель 8100068.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100068</vendorCode>
+            <description><![CDATA[Ложка 21 Ангел-хранитель]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">17.48 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="19843">
+            <name>Ложка 22 Пингвин</name>
+            <categoryId>1040</categoryId>
+            <price>1517.4</price>
+            <image>Ложка 22 Пингвин 8100069.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100069</vendorCode>
+            <description><![CDATA[Ложка 22 Пингвин]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">27.66 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="19892">
+            <name>Ложка 23 Птичка</name>
+            <categoryId>1040</categoryId>
+            <price>1546.2</price>
+            <image>Ложка 23 Птичка 8100075.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100075</vendorCode>
+            <description><![CDATA[Ложка 23 Птичка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">27.67 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="19893">
+            <name>Ложка 24 Ангелок</name>
+            <categoryId>1040</categoryId>
+            <price>1506.6</price>
+            <image>Ложка 24 Ангелок 8110021.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8110021</vendorCode>
+            <description><![CDATA[Ложка 24 Ангелок]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">26.65 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.01 гр.</param>
+        </item>
+        <item id="19918">
+            <name>Ложка 25 Именины</name>
+            <categoryId>1040</categoryId>
+            <price>1423.8</price>
+            <image>Ложка 25 Именины 8100077.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100077</vendorCode>
+            <description><![CDATA[Ложка 25 Именины]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.64 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20060">
+            <name>Ложка 26</name>
+            <categoryId>1040</categoryId>
+            <price>1468.8</price>
+            <image>Ложка 26 8110019.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8110019</vendorCode>
+            <description><![CDATA[Ложка 26]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.20 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.10 гр.</param>
+        </item>
+        <item id="20061">
+            <name>Вилка Мышка</name>
+            <categoryId>1059</categoryId>
+            <price>1321.2</price>
+            <image>Вилка Мышка 8100079.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100079</vendorCode>
+            <description><![CDATA[Вилка Мышка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.63 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20062">
+            <name>Ложка 28 Белочка</name>
+            <categoryId>1040</categoryId>
+            <price>1371.6</price>
+            <image>Ложка 28 Белочка 8100080.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100080</vendorCode>
+            <description><![CDATA[Ложка 28 Белочка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">23.46 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20063">
+            <name>Ложка 29 Воробей</name>
+            <categoryId>1040</categoryId>
+            <price>1015.2</price>
+            <image>Ложка 29 Воробей 8100081.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100081</vendorCode>
+            <description><![CDATA[Ложка 29 Воробей]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">16.11 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20064">
+            <name>Ложка 30 Полянка</name>
+            <categoryId>1040</categoryId>
+            <price>981</price>
+            <image>Ложка 30 Полянка 8100082.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100082</vendorCode>
+            <description><![CDATA[Ложка 30 Полянка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">16.07 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20065">
+            <name>Ложка 31 дес Полянка</name>
+            <categoryId>1040</categoryId>
+            <price>1382.4</price>
+            <image>Ложка 31 дес Полянка 8100083.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100083</vendorCode>
+            <description><![CDATA[Ложка 31 дес Полянка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.41 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20071">
+            <name>Вилка Полянка</name>
+            <categoryId>1059</categoryId>
+            <price>1229.4</price>
+            <image>Вилка Полянка 8100084.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100084</vendorCode>
+            <description><![CDATA[Вилка Полянка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">20.50 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20315">
+            <name>Ложка 32 Устрица</name>
+            <categoryId>1040</categoryId>
+            <price>1299.6</price>
+            <image>Ложка 32 Устрица 8100088.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100088</vendorCode>
+            <description><![CDATA[Ложка 32 Устрица]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.22 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20316">
+            <name>Ложка 33 Тигренок</name>
+            <categoryId>1040</categoryId>
+            <price>1513.8</price>
+            <image>Ложка 33 Тигренок 8100089.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100089</vendorCode>
+            <description><![CDATA[Ложка 33 Тигренок]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">27.30 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20317">
+            <name>Ложка 34 Улитка</name>
+            <categoryId>1040</categoryId>
+            <price>1483.2</price>
+            <image>Ложка 34 Улитка 8100090.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100090</vendorCode>
+            <description><![CDATA[Ложка 34 Улитка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">26.90 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20318">
+            <name>Ложка 35</name>
+            <categoryId>1040</categoryId>
+            <price>1557</price>
+            <image>Ложка 35 8100091.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100091</vendorCode>
+            <description><![CDATA[Ложка 35]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">27.93 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20319">
+            <name>Ложка 36 Винни Пух</name>
+            <categoryId>1040</categoryId>
+            <price>1744.2</price>
+            <image>Ложка 36 Винни Пух 8110024.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8110024</vendorCode>
+            <description><![CDATA[Ложка 36 Винни Пух]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">30.42 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.11 гр.</param>
+        </item>
+        <item id="20382">
+            <name>Ложка 37 Мышка</name>
+            <categoryId>1040</categoryId>
+            <price>1297.8</price>
+            <image>Ложка 37 Мышка 8100092.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100092</vendorCode>
+            <description><![CDATA[Ложка 37 Мышка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.40 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20732">
+            <name>Ложка 38</name>
+            <categoryId>1040</categoryId>
+            <price>1364.4</price>
+            <image>Ложка 38 8100097.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100097</vendorCode>
+            <description><![CDATA[Ложка 38]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.12 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20733">
+            <name>Ложка 39</name>
+            <categoryId>1040</categoryId>
+            <price>1558.8</price>
+            <image>Ложка 39 8100098.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100098</vendorCode>
+            <description><![CDATA[Ложка 39]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">28.65 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="20747">
+            <name>Ложка 40 Гороскоп</name>
+            <categoryId>1040</categoryId>
+            <price>1542.6</price>
+            <image>Ложка 40 Гороскоп 8100099.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100099</vendorCode>
+            <description><![CDATA[Ложка 40 Гороскоп]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">27.62 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="21207">
+            <name>Ложка 42</name>
+            <categoryId>1040</categoryId>
+            <price>1281.6</price>
+            <image>Ложка 42 8100114.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100114</vendorCode>
+            <description><![CDATA[Ложка 42]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.20 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="21320">
+            <name>Ложка 43 Лев</name>
+            <categoryId>1040</categoryId>
+            <price>1315.8</price>
+            <image>Ложка 43 Лев 8100116.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100116</vendorCode>
+            <description><![CDATA[Ложка 43 Лев]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">23.05 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="21542">
+            <name>Вилка Мышка эм</name>
+            <categoryId>1059</categoryId>
+            <price>1303.2</price>
+            <image>Вилка Мышка эм 8100119.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100119</vendorCode>
+            <description><![CDATA[Вилка Мышка эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">21.38 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="21547">
+            <name>Ложка 25 Именины эм</name>
+            <categoryId>1040</categoryId>
+            <price>1459.8</price>
+            <image>Ложка 25 Именины эм 8100123.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100123</vendorCode>
+            <description><![CDATA[Ложка 25 Именины эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.64 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="21549">
+            <name>Ложка 29 Воробей эм</name>
+            <categoryId>1040</categoryId>
+            <price>1051.2</price>
+            <image>Ложка 29 Воробей эм 8100125.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100125</vendorCode>
+            <description><![CDATA[Ложка 29 Воробей эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">16.11 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="21550">
+            <name>Ложка 33 Тигренок эм</name>
+            <categoryId>1040</categoryId>
+            <price>1575</price>
+            <image>Ложка 33 Тигренок эм 8100126.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100126</vendorCode>
+            <description><![CDATA[Ложка 33 Тигренок эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">27.30 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="21551">
+            <name>Ложка 34 Улитка эм</name>
+            <categoryId>1040</categoryId>
+            <price>1560.6</price>
+            <image>Ложка 34 Улитка эм 8100127.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100127</vendorCode>
+            <description><![CDATA[Ложка 34 Улитка эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">26.90 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="21552">
+            <name>Ложка 35 эм</name>
+            <categoryId>1040</categoryId>
+            <price>1607.4</price>
+            <image>Ложка 35 эм 8100128.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100128</vendorCode>
+            <description><![CDATA[Ложка 35 эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">27.93 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="21553">
+            <name>Ложка 36 Винни Пух эм</name>
+            <categoryId>1040</categoryId>
+            <price>1805.4</price>
+            <image>Ложка 36 Винни Пух эм 8110034.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8110034</vendorCode>
+            <description><![CDATA[Ложка 36 Винни Пух эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">30.42 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.11 гр.</param>
+        </item>
+        <item id="21556">
+            <name>Ложка 41 Слоник эм</name>
+            <categoryId>1040</categoryId>
+            <price>1875.6</price>
+            <image>Ложка 41 Слоник эм 8100131.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100131</vendorCode>
+            <description><![CDATA[Ложка 41 Слоник эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">33.66 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="96779">
+            <name>Ложка 105 Маша</name>
+            <categoryId>1040</categoryId>
+            <price>889.2</price>
+            <image>Ложка 105 Маша 8100275.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100275</vendorCode>
+            <description><![CDATA[Ложка 105 Маша]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">13.98 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="22808">
+            <name>Ложка 45 дес</name>
+            <categoryId>1040</categoryId>
+            <price>2471.4</price>
+            <image>Ложка 45 дес 8100165.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100165</vendorCode>
+            <description><![CDATA[Ложка 45 дес]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">47.53 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="22809">
+            <name>Ложка 46 дес Васильки</name>
+            <categoryId>1040</categoryId>
+            <price>2129.4</price>
+            <image>Ложка 46 дес Васильки 8100166.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100166</vendorCode>
+            <description><![CDATA[Ложка 46 дес Васильки]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">39.62 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="22810">
+            <name>Ложка 47 чайн Фантазия</name>
+            <categoryId>1040</categoryId>
+            <price>1495.8</price>
+            <image>Ложка 47 чайн Фантазия 8100167.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100167</vendorCode>
+            <description><![CDATA[Ложка 47 чайн Фантазия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">25.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="24881">
+            <name>Ложка 52 Веночек</name>
+            <categoryId>1040</categoryId>
+            <price>1053</price>
+            <image>Ложка 52 Веночек 8100183.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100183</vendorCode>
+            <description><![CDATA[Ложка 52 Веночек]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">17.64 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="26652">
+            <name>Вилка Шахматы</name>
+            <categoryId>1059</categoryId>
+            <price>1873.8</price>
+            <image>Вилка Шахматы 8100184.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100184</vendorCode>
+            <description><![CDATA[Вилка Шахматы]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">34.69 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="26653">
+            <name>Ложка 53 дес Шахматы</name>
+            <categoryId>1040</categoryId>
+            <price>2764.8</price>
+            <image>Ложка 53 дес Шахматы 8100185.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100185</vendorCode>
+            <description><![CDATA[Ложка 53 дес Шахматы]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">55.17 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="26654">
+            <name>Ложка 54 дес Веточка</name>
+            <categoryId>1040</categoryId>
+            <price>1850.4</price>
+            <image>Ложка 54 дес Веточка 8100186.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100186</vendorCode>
+            <description><![CDATA[Ложка 54 дес Веточка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">34.52 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="28142">
+            <name>Ложка 55 Сияние</name>
+            <categoryId>1040</categoryId>
+            <price>1384.2</price>
+            <image>Ложка 55 Сияние 8100187.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100187</vendorCode>
+            <description><![CDATA[Ложка 55 Сияние]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.60 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="28143">
+            <name>Ложка 56 Гималаи</name>
+            <categoryId>1040</categoryId>
+            <price>1269</price>
+            <image>Ложка 56 Гималаи 8100188.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100188</vendorCode>
+            <description><![CDATA[Ложка 56 Гималаи]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">21.93 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="28144">
+            <name>Ложка 57 Веста</name>
+            <categoryId>1040</categoryId>
+            <price>1227.6</price>
+            <image>Ложка 57 Веста 8100189.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100189</vendorCode>
+            <description><![CDATA[Ложка 57 Веста]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">20.94 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="28145">
+            <name>Ложка 58 Августа</name>
+            <categoryId>1040</categoryId>
+            <price>1350</price>
+            <image>Ложка 58 Августа 8100190.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100190</vendorCode>
+            <description><![CDATA[Ложка 58 Августа]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">23.82 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="28146">
+            <name>Ложка 59 Марта</name>
+            <categoryId>1040</categoryId>
+            <price>1249.2</price>
+            <image>Ложка 59 Марта 8100191.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100191</vendorCode>
+            <description><![CDATA[Ложка 59 Марта]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">21.44 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="28147">
+            <name>Вилка Фантазия</name>
+            <categoryId>1059</categoryId>
+            <price>2235.6</price>
+            <image>Вилка Фантазия 8100192.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100192</vendorCode>
+            <description><![CDATA[Вилка Фантазия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">42.21 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="30416">
+            <name>Ложка 60</name>
+            <categoryId>1040</categoryId>
+            <price>1195.2</price>
+            <image>Ложка 60 8100193.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100193</vendorCode>
+            <description><![CDATA[Ложка 60]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">20.91 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="31679">
+            <name>Ложка 61 Птички эм</name>
+            <categoryId>1040</categoryId>
+            <price>1756.8</price>
+            <image>Ложка 61 Птички эм 8100194.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100194</vendorCode>
+            <description><![CDATA[Ложка 61 Птички эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">32.38 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="31680">
+            <name>Ложка 62 Птички 2 эм</name>
+            <categoryId>1040</categoryId>
+            <price>1675.8</price>
+            <image>Ложка 62 Птички 2 эм 8100195.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100195</vendorCode>
+            <description><![CDATA[Ложка 62 Птички 2 эм]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">30.45 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="31681">
+            <name>Ложка 63 Сиртаки</name>
+            <categoryId>1040</categoryId>
+            <price>696.6</price>
+            <image>Ложка 63 Сиртаки 8100196.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100196</vendorCode>
+            <description><![CDATA[Ложка 63 Сиртаки]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">10.15 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="31696">
+            <name>Ложка 64 стол Розочка</name>
+            <categoryId>1040</categoryId>
+            <price>2764.8</price>
+            <image>Ложка 64 стол Розочка 8100197.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100197</vendorCode>
+            <description><![CDATA[Ложка 64 стол Розочка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">54.22 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="31698">
+            <name>Ложка 51 Шахматы м</name>
+            <categoryId>1040</categoryId>
+            <price>684</price>
+            <image>Ложка 51 Шахматы м 8100198.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100198</vendorCode>
+            <description><![CDATA[Ложка 51 Шахматы м]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">9.88 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="31787">
+            <name>Ложка 65 м</name>
+            <categoryId>1040</categoryId>
+            <price>876.6</price>
+            <image>Ложка 65 м 8100199.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100199</vendorCode>
+            <description><![CDATA[Ложка 65 м]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">14.28 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="31788">
+            <name>Ложка 66 м Вензель</name>
+            <categoryId>1040</categoryId>
+            <price>972</price>
+            <image>Ложка 66 м Вензель 8100200.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100200</vendorCode>
+            <description><![CDATA[Ложка 66 м Вензель]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">16.03 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="96780">
+            <name>Ложка 106 Медведь</name>
+            <categoryId>1040</categoryId>
+            <price>1288.8</price>
+            <image>Ложка 106 Медведь 8100276.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100276</vendorCode>
+            <description><![CDATA[Ложка 106 Медведь]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.93 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="33339">
+            <name>Нож Фантазия</name>
+            <categoryId>1059</categoryId>
+            <price>3198.6</price>
+            <image>Нож Фантазия 8100201.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100201</vendorCode>
+            <description><![CDATA[Нож Фантазия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">42.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">26.70 гр.</param>
+        </item>
+        <item id="33340">
+            <name>Ложка 67 Букет</name>
+            <categoryId>1040</categoryId>
+            <price>1240.2</price>
+            <image>Ложка 67 Букет 8100202.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100202</vendorCode>
+            <description><![CDATA[Ложка 67 Букет]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.14 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="33341">
+            <name>Вилка Розочка</name>
+            <categoryId>1059</categoryId>
+            <price>2167.2</price>
+            <image>Вилка Розочка 8100203.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100203</vendorCode>
+            <description><![CDATA[Вилка Розочка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">40.71 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="34360">
+            <name>Ложка 69 Крестины</name>
+            <categoryId>1040</categoryId>
+            <price>1463.4</price>
+            <image>Ложка 69 Крестины 8100205.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100205</vendorCode>
+            <description><![CDATA[Ложка 69 Крестины]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">26.24 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="34375">
+            <name>Ложка 70 стол Фантазия</name>
+            <categoryId>1040</categoryId>
+            <price>2863.8</price>
+            <image>Ложка 70 стол Фантазия 8100206.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100206</vendorCode>
+            <description><![CDATA[Ложка 70 стол Фантазия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">54.38 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="65931">
+            <name>Ложка 74 чайн Розочка</name>
+            <categoryId>1040</categoryId>
+            <price>1380.6</price>
+            <image>Ложка 74 чайн Розочка 8100224.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100224</vendorCode>
+            <description><![CDATA[Ложка 74 чайн Розочка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">24.86 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="65932">
+            <name>Ложка 75 гладкая б</name>
+            <categoryId>1040</categoryId>
+            <price>1272.6</price>
+            <image>Ложка 75 гладкая б 8100225.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100225</vendorCode>
+            <description><![CDATA[Ложка 75 гладкая б]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.90 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="37297">
+            <name>Нож Розочка</name>
+            <categoryId>1059</categoryId>
+            <price>3027.6</price>
+            <image>Нож Розочка 8100209.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100209</vendorCode>
+            <description><![CDATA[Нож Розочка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">38.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">26.70 гр.</param>
+        </item>
+        <item id="63090">
+            <name>Ложка 71 Вьюнок</name>
+            <categoryId>1040</categoryId>
+            <price>1571.4</price>
+            <image>Ложка 71 Вьюнок 8100219.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100219</vendorCode>
+            <description><![CDATA[Ложка 71 Вьюнок]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">28.13 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="63096">
+            <name>Ложка 72 гладкая м</name>
+            <categoryId>1040</categoryId>
+            <price>955.8</price>
+            <image>Ложка 72 гладкая м 8100220.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100220</vendorCode>
+            <description><![CDATA[Ложка 72 гладкая м]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">16.13 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="64852">
+            <name>Ложка 73 кофейн Розочка</name>
+            <categoryId>1040</categoryId>
+            <price>822.6</price>
+            <image>Ложка 73 кофейн Розочка 8100223.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100223</vendorCode>
+            <description><![CDATA[Ложка 73 кофейн Розочка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">12.74 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="67462">
+            <name>Ложка 76</name>
+            <categoryId>1040</categoryId>
+            <price>1085.4</price>
+            <image>Ложка 76 8100226.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100226</vendorCode>
+            <description><![CDATA[Ложка 76]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">18.59 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="67463">
+            <name>Ложка 77 м</name>
+            <categoryId>1040</categoryId>
+            <price>882</price>
+            <image>Ложка 77 м 8100227.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100227</vendorCode>
+            <description><![CDATA[Ложка 77 м]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">13.95 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="70260">
+            <name>Ложка 79 Ангел</name>
+            <categoryId>1040</categoryId>
+            <price>950.4</price>
+            <image>Ложка 79 Ангел 8100230.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100230</vendorCode>
+            <description><![CDATA[Ложка 79 Ангел]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">15.36 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="73322">
+            <name>Ложка 81 Гамма</name>
+            <categoryId>1040</categoryId>
+            <price>1454.4</price>
+            <image>Ложка 81 Гамма 8100232.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100232</vendorCode>
+            <description><![CDATA[Ложка 81 Гамма]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">26.15 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="73323">
+            <name>Ложка 82 Баллада</name>
+            <categoryId>1040</categoryId>
+            <price>1441.8</price>
+            <image>Ложка 82 Баллада 8100233.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100233</vendorCode>
+            <description><![CDATA[Ложка 82 Баллада]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">25.90 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="74506">
+            <name>Ложка 83 дес Весна</name>
+            <categoryId>1040</categoryId>
+            <price>2928.6</price>
+            <image>Ложка 83 дес Весна 8100236.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100236</vendorCode>
+            <description><![CDATA[Ложка 83 дес Весна]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">59.04 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="74527">
+            <name>Ложка 80 Вираж</name>
+            <categoryId>1040</categoryId>
+            <price>1506.6</price>
+            <image>Ложка 80 Вираж 8100237.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100237</vendorCode>
+            <description><![CDATA[Ложка 80 Вираж]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">27.39 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="75230">
+            <name>Подарочный набор Фантазия 3</name>
+            <categoryId>1059</categoryId>
+            <price>0</price>
+            <image>Подарочный набор Фантазия 3 8100239.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100239</vendorCode>
+            <description><![CDATA[Подарочный набор Фантазия 3]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">0.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="75232">
+            <name>Подарочный набор Фантазия 30</name>
+            <categoryId>1059</categoryId>
+            <price>0</price>
+            <image>Подарочный набор Фантазия 30 8100241.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100241</vendorCode>
+            <description><![CDATA[Подарочный набор Фантазия 30]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">0.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="75233">
+            <name>Подарочный набор Нож Фантазия</name>
+            <categoryId>1059</categoryId>
+            <price>0</price>
+            <image>Подарочный набор Нож Фантазия 8100242.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100242</vendorCode>
+            <description><![CDATA[Подарочный набор Нож Фантазия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">0.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="75234">
+            <name>Подарочный набор Вилка Фантазия</name>
+            <categoryId>1059</categoryId>
+            <price>0</price>
+            <image>Подарочный набор Вилка Фантазия 8100243.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100243</vendorCode>
+            <description><![CDATA[Подарочный набор Вилка Фантазия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">0.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="75235">
+            <name>Подарочный набор Ложка 45 Фантазия</name>
+            <categoryId>1059</categoryId>
+            <price>0</price>
+            <image>Подарочный набор Ложка 45 Фантазия 8100244.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100244</vendorCode>
+            <description><![CDATA[Подарочный набор Ложка 45 Фантазия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">0.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="75236">
+            <name>Подарочный набор Ложка 47 Фантазия</name>
+            <categoryId>1059</categoryId>
+            <price>0</price>
+            <image>Подарочный набор Ложка 47 Фантазия 8100245.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100245</vendorCode>
+            <description><![CDATA[Подарочный набор Ложка 47 Фантазия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">0.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="75237">
+            <name>Подарочный набор Розочка 18</name>
+            <categoryId>1059</categoryId>
+            <price>0</price>
+            <image>Подарочный набор Розочка 18 8100246.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100246</vendorCode>
+            <description><![CDATA[Подарочный набор Розочка 18]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">0.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="93503">
+            <name>Ложка 102 Рыцарь</name>
+            <categoryId>1040</categoryId>
+            <price>1287</price>
+            <image>Ложка 102 Рыцарь 8100270.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100270</vendorCode>
+            <description><![CDATA[Ложка 102 Рыцарь]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">22.31 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="88476">
+            <name>Ложка 87 Трезубец</name>
+            <categoryId>1040</categoryId>
+            <price>1297.8</price>
+            <image>Ложка 87 Трезубец 8100253.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100253</vendorCode>
+            <description><![CDATA[Ложка 87 Трезубец]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">21.89 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="88477">
+            <name>Ложка 88 Трезубец 2</name>
+            <categoryId>1040</categoryId>
+            <price>1220.4</price>
+            <image>Ложка 88 Трезубец 2 8100254.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100254</vendorCode>
+            <description><![CDATA[Ложка 88 Трезубец 2]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">20.18 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="89900">
+            <name>Ложка 89 Часики 2</name>
+            <categoryId>1040</categoryId>
+            <price>918</price>
+            <image>Ложка 89 Часики 2 8100255.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100255</vendorCode>
+            <description><![CDATA[Ложка 89 Часики 2]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">14.78 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="89902">
+            <name>Ложка 91 Богородица</name>
+            <categoryId>1040</categoryId>
+            <price>975.6</price>
+            <image>Ложка 91 Богородица 8100257.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100257</vendorCode>
+            <description><![CDATA[Ложка 91 Богородица]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">16.11 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="91863">
+            <name>Ложка 93 Розочка</name>
+            <categoryId>1040</categoryId>
+            <price>1728</price>
+            <image>Ложка 93 Розочка 8100259.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100259</vendorCode>
+            <description><![CDATA[Ложка 93 Розочка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">32.66 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="92871">
+            <name>Ложка 94 Амфора</name>
+            <categoryId>1040</categoryId>
+            <price>1281.6</price>
+            <image>Ложка 94 Амфора 8100261.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100261</vendorCode>
+            <description><![CDATA[Ложка 94 Амфора]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">23.11 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="93192">
+            <name>Ложка 101 Николай Чудотворец</name>
+            <categoryId>1040</categoryId>
+            <price>1101.6</price>
+            <image>Ложка 101 Николай Чудотворец 8100267.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100267</vendorCode>
+            <description><![CDATA[Ложка 101 Николай Чудотворец]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">18.31 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="98016">
+            <name>Ложка 109 Узор</name>
+            <categoryId>1040</categoryId>
+            <price>1303.2</price>
+            <image>Ложка 109 Узор 8100284.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100284</vendorCode>
+            <description><![CDATA[Ложка 109 Узор]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">23.57 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="97995">
+            <name>Ложка 108 Павлина</name>
+            <categoryId>1040</categoryId>
+            <price>1317.6</price>
+            <image>Ложка 108 Павлина 8100283.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100283</vendorCode>
+            <description><![CDATA[Ложка 108 Павлина]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">23.01 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="102983">
+            <name>Ложка 110 Орнамент</name>
+            <categoryId>1040</categoryId>
+            <price>1056.6</price>
+            <image>Ложка 110 Орнамент 8100302.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100302</vendorCode>
+            <description><![CDATA[Ложка 110 Орнамент]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">17.97 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="102984">
+            <name>Ложка 116 стол Элегант</name>
+            <categoryId>1040</categoryId>
+            <price>2707.2</price>
+            <image>Ложка 116 стол Элегант 8100303.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100303</vendorCode>
+            <description><![CDATA[Ложка 116 стол Элегант]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">52.37 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="109925">
+            <name>Ложка 111 чайн Идиллия</name>
+            <categoryId>1040</categoryId>
+            <price>1422</price>
+            <image>Ложка 111 чайн Идиллия 8100391.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100391</vendorCode>
+            <description><![CDATA[Ложка 111 чайн Идиллия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">23.70 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="110974">
+            <name>Нож Идиллия</name>
+            <categoryId>1059</categoryId>
+            <price>3114</price>
+            <image>Нож Идиллия 8100402.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100402</vendorCode>
+            <description><![CDATA[Нож Идиллия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">40.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">29.70 гр.</param>
+        </item>
+        <item id="110975">
+            <name>Ложка 114 кофейн Идиллия</name>
+            <categoryId>1040</categoryId>
+            <price>937.8</price>
+            <image>Ложка 114 кофейн Идиллия 8100403.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100403</vendorCode>
+            <description><![CDATA[Ложка 114 кофейн Идиллия]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">13.41 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="118274">
+            <name>Нож Розочка 2</name>
+            <categoryId>1059</categoryId>
+            <price>3027.6</price>
+            <image>Нож Розочка 2 8100431.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100431</vendorCode>
+            <description><![CDATA[Нож Розочка 2]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">38.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">42.81 гр.</param>
+        </item>
+        <item id="118275">
+            <name>Нож Фантазия 2</name>
+            <categoryId>1059</categoryId>
+            <price>3198.6</price>
+            <image>Нож Фантазия 2 8100432.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100432</vendorCode>
+            <description><![CDATA[Нож Фантазия 2]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">42.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">42.81 гр.</param>
+        </item>
+        <item id="118522">
+            <name>Вилка Ангел</name>
+            <categoryId>1059</categoryId>
+            <price>1348.2</price>
+            <image>Вилка Ангел 8100434.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100434</vendorCode>
+            <description><![CDATA[Вилка Ангел]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">23.05 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="118523">
+            <name>Вилка Часики</name>
+            <categoryId>1059</categoryId>
+            <price>1510.2</price>
+            <image>Вилка Часики 8100435.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100435</vendorCode>
+            <description><![CDATA[Вилка Часики]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">26.96 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="112387">
+            <name>Нож Идиллия 2</name>
+            <categoryId>1059</categoryId>
+            <price>3114</price>
+            <image>Нож Идиллия 2 8100416.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100416</vendorCode>
+            <description><![CDATA[Нож Идиллия 2]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">40.00 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">42.81 гр.</param>
+        </item>
+        <item id="111175">
+            <name>Ложка 115 стол Розочка</name>
+            <categoryId>1040</categoryId>
+            <price>3675.6</price>
+            <image>Ложка 115 стол Розочка 8100411.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100411</vendorCode>
+            <description><![CDATA[Ложка 115 стол Розочка]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">73.42 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="108384">
+            <name>Вилка Фантазия 2</name>
+            <categoryId>1059</categoryId>
+            <price>3078</price>
+            <image>Вилка Фантазия 2 8100353.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100353</vendorCode>
+            <description><![CDATA[Вилка Фантазия 2]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">54.93 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+        <item id="119416">
+            <name>Вилка Элегант</name>
+            <categoryId>1059</categoryId>
+            <price>2196</price>
+            <image>Вилка Элегант 8100438.jpg</image>
+            <vendor>ТОВ ВКП &quot;БРЮС&quot;</vendor>
+            <vendorCode>8100438</vendorCode>
+            <description><![CDATA[Вилка Элегант]]></description>
+            <available>true</available>
+            <param name="вес (в серебре)">41.95 гр.</param>
+            <param name="вес (в золоте)">0.00 гр.</param>
+            <param name="вес вставок)">0.00 гр.</param>
+        </item>
+    </items>
+</price>

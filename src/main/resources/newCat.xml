@@ -1,0 +1,3396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<price date="01.04.2020 18:15:13"> 
+ <catalog> 
+  <category id="1040">
+   РџРѕСЃСѓРґР° - Р»РѕР¶РєРё
+  </category> 
+  <category id="1059">
+   РЎС‚РѕР»РѕРІС‹Рµ РїСЂРёР±РѕСЂС‹
+  </category> 
+ </catalog> 
+ <items> 
+  <item id="423"> 
+   <name>
+    Р›РѕР¶РєР° 50 РЁР°С…РјР°С‚С‹
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1225.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 50 РЁР°С…РјР°С‚С‹ 8100181.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100181
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 50 РЁР°С…РјР°С‚С‹]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">21.61 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="79316"> 
+   <name>
+    РќРѕР¶ РЁР°С…РјР°С‚С‹
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    2716.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/РќРѕР¶ РЁР°С…РјР°С‚С‹ 8100249.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100249
+   </vendorCode> 
+   <description><![CDATA[РќРѕР¶ РЁР°С…РјР°С‚С‹]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">41.63 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">26.70 РіСЂ.</param> 
+  </item> 
+  <item id="15380"> 
+   <name>
+    Р›РѕР¶РєР° 1
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    844.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 1 8100024.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100024
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 1]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">13.54 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">16.78 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="15381"> 
+   <name>
+    Р›РѕР¶РєР° 2
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1269
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 2 8100025.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100025
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 2]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.80 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">25.94 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="16909"> 
+   <name>
+    Р›РѕР¶РєР° 3 РљРѕСЂРѕР»СЊ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1369.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 3 РљРѕСЂРѕР»СЊ 8100033.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100033
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 3 РљРѕСЂРѕР»СЊ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.28 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">29.96 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="16910"> 
+   <name>
+    Р›РѕР¶РєР° 4 Р¦РІРµС‚С‹
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1292.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 4 Р¦РІРµС‚С‹ 8100034.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100034
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 4 Р¦РІРµС‚С‹]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.46 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">27.18 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="16911"> 
+   <name>
+    Р›РѕР¶РєР° 5 РњРёС€РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1400.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 5 РњРёС€РєР° 8100035.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100035
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 5 РњРёС€РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.96 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">29.78 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="16912"> 
+   <name>
+    Р›РѕР¶РєР° 6 РђР¶СѓСЂРЅР°СЏ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1425.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 6 РђР¶СѓСЂРЅР°СЏ 8100036.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100036
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 6 РђР¶СѓСЂРЅР°СЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.98 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">33.68 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="16913"> 
+   <name>
+    Р›РѕР¶РєР° 7 РљРѕРЅРµРє
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1395
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 7 РљРѕРЅРµРє 8100037.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100037
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 7 РљРѕРЅРµРє]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.97 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">25.60 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="16914"> 
+   <name>
+    Р›РѕР¶РєР° 8 Р&nbsp;С‹Р±РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1393.2
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 8 Р&nbsp;С‹Р±РєР° 8100038.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100038
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 8 Р С‹Р±РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.90 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">24.72 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="17325"> 
+   <name>
+    Р›РѕР¶РєР° 9 Р‘Р°Р±РѕС‡РєР° СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2568.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 9 Р‘Р°Р±РѕС‡РєР° СЌРј 8100043.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100043
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 9 Р‘Р°Р±РѕС‡РєР° СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">47.72 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="17349"> 
+   <name>
+    Р›РѕР¶РєР° 10 РђР№РІРµРЅРіРѕ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2583
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 10 РђР№РІРµРЅРіРѕ 8100044.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100044
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 10 РђР№РІРµРЅРіРѕ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">48.69 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="17362"> 
+   <name>
+    Р›РѕР¶РєР° 11 Р¦РІРµС‚РѕРє СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2601
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 11 Р¦РІРµС‚РѕРє СЌРј 8100045.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100045
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 11 Р¦РІРµС‚РѕРє СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">47.90 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="17471"> 
+   <name>
+    Р›РѕР¶РєР° 12 Р§Р°СЃРёРєРё
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1794.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 12 Р§Р°СЃРёРєРё 8100048.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100048
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 12 Р§Р°СЃРёРєРё]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">34.06 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="17711"> 
+   <name>
+    Р›РѕР¶РєР° 13 Р›Р°СЃС‚РѕС‡РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1636.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 13 Р›Р°СЃС‚РѕС‡РєР° 8100049.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100049
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 13 Р›Р°СЃС‚РѕС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">30.35 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="17712"> 
+   <name>
+    Р›РѕР¶РєР° 14 РџРµС‚СѓС€РѕРє СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1827
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 14 РџРµС‚СѓС€РѕРє СЌРј 8100050.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100050
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 14 РџРµС‚СѓС€РѕРє СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">32.47 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="17873"> 
+   <name>
+    Р›РѕР¶РєР° 15 РљР»СѓР±РЅРёС‡РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2667.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 15 РљР»СѓР±РЅРёС‡РєР° 8100052.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100052
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 15 РљР»СѓР±РЅРёС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">51.45 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="18042"> 
+   <name>
+    Р›РѕР¶РєР° 16 РљРѕР»РѕСЃРѕРє
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1683
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 16 РљРѕР»РѕСЃРѕРє 8100054.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100054
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 16 РљРѕР»РѕСЃРѕРє]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">31.46 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="18043"> 
+   <name>
+    Р›РѕР¶РєР° 17 РЈРєСЂР°РёРЅР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1675.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 17 РЈРєСЂР°РёРЅР° 8100055.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100055
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 17 РЈРєСЂР°РёРЅР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">31.31 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="18044"> 
+   <name>
+    Р›РѕР¶РєР° 18 РќРµР·Р°Р±СѓРґРєРё
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1672.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 18 РќРµР·Р°Р±СѓРґРєРё 8100056.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100056
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 18 РќРµР·Р°Р±СѓРґРєРё]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">31.19 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="18166"> 
+   <name>
+    Р›РѕР¶РєР° 19
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1261.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 19 8100058.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100058
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 19]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.65 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="19810"> 
+   <name>
+    Р›РѕР¶РєР° 20 РљРѕСЂР°Р±Р»РёРє
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1659.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 20 РљРѕСЂР°Р±Р»РёРє 8100067.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100067
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 20 РљРѕСЂР°Р±Р»РёРє]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">30.72 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="19811"> 
+   <name>
+    Р›РѕР¶РєР° 21 РђРЅРіРµР»-С…СЂР°РЅРёС‚РµР»СЊ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1045.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 21 РђРЅРіРµР»-С…СЂР°РЅРёС‚РµР»СЊ 8100068.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100068
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 21 РђРЅРіРµР»-С…СЂР°РЅРёС‚РµР»СЊ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">17.48 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="19843"> 
+   <name>
+    Р›РѕР¶РєР° 22 РџРёРЅРіРІРёРЅ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1517.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 22 РџРёРЅРіРІРёРЅ 8100069.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100069
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 22 РџРёРЅРіРІРёРЅ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">27.66 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="19892"> 
+   <name>
+    Р›РѕР¶РєР° 23 РџС‚РёС‡РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1546.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 23 РџС‚РёС‡РєР° 8100075.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100075
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 23 РџС‚РёС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">27.67 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="19893"> 
+   <name>
+    Р›РѕР¶РєР° 24 РђРЅРіРµР»РѕРє
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1506.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 24 РђРЅРіРµР»РѕРє 8110021.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8110021
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 24 РђРЅРіРµР»РѕРє]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">26.65 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.01 РіСЂ.</param> 
+  </item> 
+  <item id="19918"> 
+   <name>
+    Р›РѕР¶РєР° 25 Р&#xfffd;РјРµРЅРёРЅС‹
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1423.8
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 25 Р&#xfffd;РјРµРЅРёРЅС‹ 8100077.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100077
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 25 Р�РјРµРЅРёРЅС‹]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.64 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20060"> 
+   <name>
+    Р›РѕР¶РєР° 26
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1468.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 26 8110019.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8110019
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 26]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.20 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.10 РіСЂ.</param> 
+  </item> 
+  <item id="20061"> 
+   <name>
+    Р’РёР»РєР° РњС‹С€РєР°
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    1321.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р’РёР»РєР° РњС‹С€РєР° 8100079.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100079
+   </vendorCode> 
+   <description><![CDATA[Р’РёР»РєР° РњС‹С€РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.63 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20062"> 
+   <name>
+    Р›РѕР¶РєР° 28 Р‘РµР»РѕС‡РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1371.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 28 Р‘РµР»РѕС‡РєР° 8100080.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100080
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 28 Р‘РµР»РѕС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">23.46 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20063"> 
+   <name>
+    Р›РѕР¶РєР° 29 Р’РѕСЂРѕР±РµР№
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1015.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 29 Р’РѕСЂРѕР±РµР№ 8100081.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100081
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 29 Р’РѕСЂРѕР±РµР№]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">16.11 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20064"> 
+   <name>
+    Р›РѕР¶РєР° 30 РџРѕР»СЏРЅРєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    981
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 30 РџРѕР»СЏРЅРєР° 8100082.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100082
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 30 РџРѕР»СЏРЅРєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">16.07 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20065"> 
+   <name>
+    Р›РѕР¶РєР° 31 РґРµСЃ РџРѕР»СЏРЅРєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1382.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 31 РґРµСЃ РџРѕР»СЏРЅРєР° 8100083.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100083
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 31 РґРµСЃ РџРѕР»СЏРЅРєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.41 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20071"> 
+   <name>
+    Р’РёР»РєР° РџРѕР»СЏРЅРєР°
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    1229.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р’РёР»РєР° РџРѕР»СЏРЅРєР° 8100084.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100084
+   </vendorCode> 
+   <description><![CDATA[Р’РёР»РєР° РџРѕР»СЏРЅРєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">20.50 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20315"> 
+   <name>
+    Р›РѕР¶РєР° 32 РЈСЃС‚СЂРёС†Р°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1299.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 32 РЈСЃС‚СЂРёС†Р° 8100088.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100088
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 32 РЈСЃС‚СЂРёС†Р°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.22 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20316"> 
+   <name>
+    Р›РѕР¶РєР° 33 РўРёРіСЂРµРЅРѕРє
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1513.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 33 РўРёРіСЂРµРЅРѕРє 8100089.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100089
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 33 РўРёРіСЂРµРЅРѕРє]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">27.30 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20317"> 
+   <name>
+    Р›РѕР¶РєР° 34 РЈР»РёС‚РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1483.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 34 РЈР»РёС‚РєР° 8100090.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100090
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 34 РЈР»РёС‚РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">26.90 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20318"> 
+   <name>
+    Р›РѕР¶РєР° 35
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1557
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 35 8100091.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100091
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 35]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">27.93 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20319"> 
+   <name>
+    Р›РѕР¶РєР° 36 Р’РёРЅРЅРё РџСѓС…
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1744.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 36 Р’РёРЅРЅРё РџСѓС… 8110024.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8110024
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 36 Р’РёРЅРЅРё РџСѓС…]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">30.42 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.11 РіСЂ.</param> 
+  </item> 
+  <item id="20382"> 
+   <name>
+    Р›РѕР¶РєР° 37 РњС‹С€РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1297.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 37 РњС‹С€РєР° 8100092.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100092
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 37 РњС‹С€РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.40 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20732"> 
+   <name>
+    Р›РѕР¶РєР° 38
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1364.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 38 8100097.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100097
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 38]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.12 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20733"> 
+   <name>
+    Р›РѕР¶РєР° 39
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1558.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 39 8100098.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100098
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 39]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">28.65 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="20747"> 
+   <name>
+    Р›РѕР¶РєР° 40 Р“РѕСЂРѕСЃРєРѕРї
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1542.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 40 Р“РѕСЂРѕСЃРєРѕРї 8100099.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100099
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 40 Р“РѕСЂРѕСЃРєРѕРї]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">27.62 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="21207"> 
+   <name>
+    Р›РѕР¶РєР° 42
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1281.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 42 8100114.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100114
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 42]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.20 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="21320"> 
+   <name>
+    Р›РѕР¶РєР° 43 Р›РµРІ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1315.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 43 Р›РµРІ 8100116.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100116
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 43 Р›РµРІ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">23.05 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="21542"> 
+   <name>
+    Р’РёР»РєР° РњС‹С€РєР° СЌРј
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    1303.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р’РёР»РєР° РњС‹С€РєР° СЌРј 8100119.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100119
+   </vendorCode> 
+   <description><![CDATA[Р’РёР»РєР° РњС‹С€РєР° СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">21.38 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="21547"> 
+   <name>
+    Р›РѕР¶РєР° 25 Р&#xfffd;РјРµРЅРёРЅС‹ СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1459.8
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 25 Р&#xfffd;РјРµРЅРёРЅС‹ СЌРј 8100123.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100123
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 25 Р�РјРµРЅРёРЅС‹ СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.64 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="21549"> 
+   <name>
+    Р›РѕР¶РєР° 29 Р’РѕСЂРѕР±РµР№ СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1051.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 29 Р’РѕСЂРѕР±РµР№ СЌРј 8100125.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100125
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 29 Р’РѕСЂРѕР±РµР№ СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">16.11 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="21550"> 
+   <name>
+    Р›РѕР¶РєР° 33 РўРёРіСЂРµРЅРѕРє СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1575
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 33 РўРёРіСЂРµРЅРѕРє СЌРј 8100126.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100126
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 33 РўРёРіСЂРµРЅРѕРє СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">27.30 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="21551"> 
+   <name>
+    Р›РѕР¶РєР° 34 РЈР»РёС‚РєР° СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1560.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 34 РЈР»РёС‚РєР° СЌРј 8100127.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100127
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 34 РЈР»РёС‚РєР° СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">26.90 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="21552"> 
+   <name>
+    Р›РѕР¶РєР° 35 СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1607.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 35 СЌРј 8100128.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100128
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 35 СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">27.93 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="21553"> 
+   <name>
+    Р›РѕР¶РєР° 36 Р’РёРЅРЅРё РџСѓС… СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1805.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 36 Р’РёРЅРЅРё РџСѓС… СЌРј 8110034.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8110034
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 36 Р’РёРЅРЅРё РџСѓС… СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">30.42 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.11 РіСЂ.</param> 
+  </item> 
+  <item id="21556"> 
+   <name>
+    Р›РѕР¶РєР° 41 РЎР»РѕРЅРёРє СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1875.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 41 РЎР»РѕРЅРёРє СЌРј 8100131.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100131
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 41 РЎР»РѕРЅРёРє СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">33.66 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="96779"> 
+   <name>
+    Р›РѕР¶РєР° 105 РњР°С€Р°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    889.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 105 РњР°С€Р° 8100275.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100275
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 105 РњР°С€Р°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">13.98 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="22808"> 
+   <name>
+    Р›РѕР¶РєР° 45 РґРµСЃ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2471.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 45 РґРµСЃ 8100165.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100165
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 45 РґРµСЃ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">47.53 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="22809"> 
+   <name>
+    Р›РѕР¶РєР° 46 РґРµСЃ Р’Р°СЃРёР»СЊРєРё
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2129.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 46 РґРµСЃ Р’Р°СЃРёР»СЊРєРё 8100166.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100166
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 46 РґРµСЃ Р’Р°СЃРёР»СЊРєРё]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">39.62 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="22810"> 
+   <name>
+    Р›РѕР¶РєР° 47 С‡Р°Р№РЅ Р¤Р°РЅС‚Р°Р·РёСЏ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1495.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 47 С‡Р°Р№РЅ Р¤Р°РЅС‚Р°Р·РёСЏ 8100167.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100167
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 47 С‡Р°Р№РЅ Р¤Р°РЅС‚Р°Р·РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">25.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="24881"> 
+   <name>
+    Р›РѕР¶РєР° 52 Р’РµРЅРѕС‡РµРє
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1053
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 52 Р’РµРЅРѕС‡РµРє 8100183.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100183
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 52 Р’РµРЅРѕС‡РµРє]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">17.64 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="26652"> 
+   <name>
+    Р’РёР»РєР° РЁР°С…РјР°С‚С‹
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    1873.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р’РёР»РєР° РЁР°С…РјР°С‚С‹ 8100184.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100184
+   </vendorCode> 
+   <description><![CDATA[Р’РёР»РєР° РЁР°С…РјР°С‚С‹]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">34.69 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="26653"> 
+   <name>
+    Р›РѕР¶РєР° 53 РґРµСЃ РЁР°С…РјР°С‚С‹
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2764.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 53 РґРµСЃ РЁР°С…РјР°С‚С‹ 8100185.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100185
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 53 РґРµСЃ РЁР°С…РјР°С‚С‹]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">55.17 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="26654"> 
+   <name>
+    Р›РѕР¶РєР° 54 РґРµСЃ Р’РµС‚РѕС‡РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1850.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 54 РґРµСЃ Р’РµС‚РѕС‡РєР° 8100186.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100186
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 54 РґРµСЃ Р’РµС‚РѕС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">34.52 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="28142"> 
+   <name>
+    Р›РѕР¶РєР° 55 РЎРёСЏРЅРёРµ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1384.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 55 РЎРёСЏРЅРёРµ 8100187.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100187
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 55 РЎРёСЏРЅРёРµ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.60 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="28143"> 
+   <name>
+    Р›РѕР¶РєР° 56 Р“РёРјР°Р»Р°Рё
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1269
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 56 Р“РёРјР°Р»Р°Рё 8100188.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100188
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 56 Р“РёРјР°Р»Р°Рё]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">21.93 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="28144"> 
+   <name>
+    Р›РѕР¶РєР° 57 Р’РµСЃС‚Р°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1227.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 57 Р’РµСЃС‚Р° 8100189.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100189
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 57 Р’РµСЃС‚Р°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">20.94 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="28145"> 
+   <name>
+    Р›РѕР¶РєР° 58 РђРІРіСѓСЃС‚Р°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1350
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 58 РђРІРіСѓСЃС‚Р° 8100190.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100190
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 58 РђРІРіСѓСЃС‚Р°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">23.82 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="28146"> 
+   <name>
+    Р›РѕР¶РєР° 59 РњР°СЂС‚Р°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1249.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 59 РњР°СЂС‚Р° 8100191.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100191
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 59 РњР°СЂС‚Р°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">21.44 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="28147"> 
+   <name>
+    Р’РёР»РєР° Р¤Р°РЅС‚Р°Р·РёСЏ
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    2235.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р’РёР»РєР° Р¤Р°РЅС‚Р°Р·РёСЏ 8100192.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100192
+   </vendorCode> 
+   <description><![CDATA[Р’РёР»РєР° Р¤Р°РЅС‚Р°Р·РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">42.21 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="30416"> 
+   <name>
+    Р›РѕР¶РєР° 60
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1195.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 60 8100193.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100193
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 60]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">20.91 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="31679"> 
+   <name>
+    Р›РѕР¶РєР° 61 РџС‚РёС‡РєРё СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1756.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 61 РџС‚РёС‡РєРё СЌРј 8100194.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100194
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 61 РџС‚РёС‡РєРё СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">32.38 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="31680"> 
+   <name>
+    Р›РѕР¶РєР° 62 РџС‚РёС‡РєРё 2 СЌРј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1675.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 62 РџС‚РёС‡РєРё 2 СЌРј 8100195.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100195
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 62 РџС‚РёС‡РєРё 2 СЌРј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">30.45 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="31681"> 
+   <name>
+    Р›РѕР¶РєР° 63 РЎРёСЂС‚Р°РєРё
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    696.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 63 РЎРёСЂС‚Р°РєРё 8100196.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100196
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 63 РЎРёСЂС‚Р°РєРё]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">10.15 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="31696"> 
+   <name>
+    Р›РѕР¶РєР° 64 СЃС‚РѕР» Р&nbsp;РѕР·РѕС‡РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2764.8
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 64 СЃС‚РѕР» Р&nbsp;РѕР·РѕС‡РєР° 8100197.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100197
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 64 СЃС‚РѕР» Р РѕР·РѕС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">54.22 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="31698"> 
+   <name>
+    Р›РѕР¶РєР° 51 РЁР°С…РјР°С‚С‹ Рј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    684
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 51 РЁР°С…РјР°С‚С‹ Рј 8100198.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100198
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 51 РЁР°С…РјР°С‚С‹ Рј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">9.88 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="31787"> 
+   <name>
+    Р›РѕР¶РєР° 65 Рј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    876.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 65 Рј 8100199.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100199
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 65 Рј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">14.28 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="31788"> 
+   <name>
+    Р›РѕР¶РєР° 66 Рј Р’РµРЅР·РµР»СЊ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    972
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 66 Рј Р’РµРЅР·РµР»СЊ 8100200.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100200
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 66 Рј Р’РµРЅР·РµР»СЊ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">16.03 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="96780"> 
+   <name>
+    Р›РѕР¶РєР° 106 РњРµРґРІРµРґСЊ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1288.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 106 РњРµРґРІРµРґСЊ 8100276.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100276
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 106 РњРµРґРІРµРґСЊ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.93 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="33339"> 
+   <name>
+    РќРѕР¶ Р¤Р°РЅС‚Р°Р·РёСЏ
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    3198.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/РќРѕР¶ Р¤Р°РЅС‚Р°Р·РёСЏ 8100201.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100201
+   </vendorCode> 
+   <description><![CDATA[РќРѕР¶ Р¤Р°РЅС‚Р°Р·РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">42.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">26.70 РіСЂ.</param> 
+  </item> 
+  <item id="33340"> 
+   <name>
+    Р›РѕР¶РєР° 67 Р‘СѓРєРµС‚
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1240.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 67 Р‘СѓРєРµС‚ 8100202.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100202
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 67 Р‘СѓРєРµС‚]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.14 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="33341"> 
+   <name>
+    Р’РёР»РєР° Р&nbsp;РѕР·РѕС‡РєР°
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    2167.2
+   </price> 
+   <image>
+    Р’РёР»РєР° Р&nbsp;РѕР·РѕС‡РєР° 8100203.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100203
+   </vendorCode> 
+   <description><![CDATA[Р’РёР»РєР° Р РѕР·РѕС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">40.71 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="34360"> 
+   <name>
+    Р›РѕР¶РєР° 69 РљСЂРµСЃС‚РёРЅС‹
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1463.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 69 РљСЂРµСЃС‚РёРЅС‹ 8100205.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100205
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 69 РљСЂРµСЃС‚РёРЅС‹]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">26.24 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="34375"> 
+   <name>
+    Р›РѕР¶РєР° 70 СЃС‚РѕР» Р¤Р°РЅС‚Р°Р·РёСЏ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2863.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 70 СЃС‚РѕР» Р¤Р°РЅС‚Р°Р·РёСЏ 8100206.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100206
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 70 СЃС‚РѕР» Р¤Р°РЅС‚Р°Р·РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">54.38 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="65931"> 
+   <name>
+    Р›РѕР¶РєР° 74 С‡Р°Р№РЅ Р&nbsp;РѕР·РѕС‡РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1380.6
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 74 С‡Р°Р№РЅ Р&nbsp;РѕР·РѕС‡РєР° 8100224.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100224
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 74 С‡Р°Р№РЅ Р РѕР·РѕС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">24.86 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="65932"> 
+   <name>
+    Р›РѕР¶РєР° 75 РіР»Р°РґРєР°СЏ Р±
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1272.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 75 РіР»Р°РґРєР°СЏ Р± 8100225.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100225
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 75 РіР»Р°РґРєР°СЏ Р±]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.90 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="37297"> 
+   <name>
+    РќРѕР¶ Р&nbsp;РѕР·РѕС‡РєР°
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    3027.6
+   </price> 
+   <image>
+    РќРѕР¶ Р&nbsp;РѕР·РѕС‡РєР° 8100209.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100209
+   </vendorCode> 
+   <description><![CDATA[РќРѕР¶ Р РѕР·РѕС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">38.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">26.70 РіСЂ.</param> 
+  </item> 
+  <item id="63090"> 
+   <name>
+    Р›РѕР¶РєР° 71 Р’СЊСЋРЅРѕРє
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1571.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 71 Р’СЊСЋРЅРѕРє 8100219.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100219
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 71 Р’СЊСЋРЅРѕРє]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">28.13 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="63096"> 
+   <name>
+    Р›РѕР¶РєР° 72 РіР»Р°РґРєР°СЏ Рј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    955.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 72 РіР»Р°РґРєР°СЏ Рј 8100220.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100220
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 72 РіР»Р°РґРєР°СЏ Рј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">16.13 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="64852"> 
+   <name>
+    Р›РѕР¶РєР° 73 РєРѕС„РµР№РЅ Р&nbsp;РѕР·РѕС‡РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    822.6
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 73 РєРѕС„РµР№РЅ Р&nbsp;РѕР·РѕС‡РєР° 8100223.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100223
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 73 РєРѕС„РµР№РЅ Р РѕР·РѕС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">12.74 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="67462"> 
+   <name>
+    Р›РѕР¶РєР° 76
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1085.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 76 8100226.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100226
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 76]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">18.59 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="67463"> 
+   <name>
+    Р›РѕР¶РєР° 77 Рј
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    882
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 77 Рј 8100227.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100227
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 77 Рј]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">13.95 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="70260"> 
+   <name>
+    Р›РѕР¶РєР° 79 РђРЅРіРµР»
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    950.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 79 РђРЅРіРµР» 8100230.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100230
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 79 РђРЅРіРµР»]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">15.36 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="73322"> 
+   <name>
+    Р›РѕР¶РєР° 81 Р“Р°РјРјР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1454.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 81 Р“Р°РјРјР° 8100232.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100232
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 81 Р“Р°РјРјР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">26.15 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="73323"> 
+   <name>
+    Р›РѕР¶РєР° 82 Р‘Р°Р»Р»Р°РґР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1441.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 82 Р‘Р°Р»Р»Р°РґР° 8100233.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100233
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 82 Р‘Р°Р»Р»Р°РґР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">25.90 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="74506"> 
+   <name>
+    Р›РѕР¶РєР° 83 РґРµСЃ Р’РµСЃРЅР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2928.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 83 РґРµСЃ Р’РµСЃРЅР° 8100236.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100236
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 83 РґРµСЃ Р’РµСЃРЅР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">59.04 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="74527"> 
+   <name>
+    Р›РѕР¶РєР° 80 Р’РёСЂР°Р¶
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1506.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 80 Р’РёСЂР°Р¶ 8100237.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100237
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 80 Р’РёСЂР°Р¶]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">27.39 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="75230"> 
+   <name>
+    РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р¤Р°РЅС‚Р°Р·РёСЏ 3
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    0
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р¤Р°РЅС‚Р°Р·РёСЏ 3 8100239.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100239
+   </vendorCode> 
+   <description><![CDATA[РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р¤Р°РЅС‚Р°Р·РёСЏ 3]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="75232"> 
+   <name>
+    РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р¤Р°РЅС‚Р°Р·РёСЏ 30
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    0
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р¤Р°РЅС‚Р°Р·РёСЏ 30 8100241.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100241
+   </vendorCode> 
+   <description><![CDATA[РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р¤Р°РЅС‚Р°Р·РёСЏ 30]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="75233"> 
+   <name>
+    РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ РќРѕР¶ Р¤Р°РЅС‚Р°Р·РёСЏ
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    0
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ РќРѕР¶ Р¤Р°РЅС‚Р°Р·РёСЏ 8100242.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100242
+   </vendorCode> 
+   <description><![CDATA[РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ РќРѕР¶ Р¤Р°РЅС‚Р°Р·РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="75234"> 
+   <name>
+    РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р’РёР»РєР° Р¤Р°РЅС‚Р°Р·РёСЏ
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    0
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р’РёР»РєР° Р¤Р°РЅС‚Р°Р·РёСЏ 8100243.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100243
+   </vendorCode> 
+   <description><![CDATA[РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р’РёР»РєР° Р¤Р°РЅС‚Р°Р·РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="75235"> 
+   <name>
+    РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р›РѕР¶РєР° 45 Р¤Р°РЅС‚Р°Р·РёСЏ
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    0
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р›РѕР¶РєР° 45 Р¤Р°РЅС‚Р°Р·РёСЏ 8100244.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100244
+   </vendorCode> 
+   <description><![CDATA[РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р›РѕР¶РєР° 45 Р¤Р°РЅС‚Р°Р·РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="75236"> 
+   <name>
+    РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р›РѕР¶РєР° 47 Р¤Р°РЅС‚Р°Р·РёСЏ
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    0
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р›РѕР¶РєР° 47 Р¤Р°РЅС‚Р°Р·РёСЏ 8100245.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100245
+   </vendorCode> 
+   <description><![CDATA[РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р›РѕР¶РєР° 47 Р¤Р°РЅС‚Р°Р·РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="75237"> 
+   <name>
+    РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р&nbsp;РѕР·РѕС‡РєР° 18
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    0
+   </price> 
+   <image>
+    РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р&nbsp;РѕР·РѕС‡РєР° 18 8100246.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100246
+   </vendorCode> 
+   <description><![CDATA[РџРѕРґР°СЂРѕС‡РЅС‹Р№ РЅР°Р±РѕСЂ Р РѕР·РѕС‡РєР° 18]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="93503"> 
+   <name>
+    Р›РѕР¶РєР° 102 Р&nbsp;С‹С†Р°СЂСЊ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1287
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 102 Р&nbsp;С‹С†Р°СЂСЊ 8100270.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100270
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 102 Р С‹С†Р°СЂСЊ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">22.31 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="88476"> 
+   <name>
+    Р›РѕР¶РєР° 87 РўСЂРµР·СѓР±РµС†
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1297.8
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 87 РўСЂРµР·СѓР±РµС† 8100253.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100253
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 87 РўСЂРµР·СѓР±РµС†]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">21.89 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="88477"> 
+   <name>
+    Р›РѕР¶РєР° 88 РўСЂРµР·СѓР±РµС† 2
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1220.4
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 88 РўСЂРµР·СѓР±РµС† 2 8100254.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100254
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 88 РўСЂРµР·СѓР±РµС† 2]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">20.18 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="89900"> 
+   <name>
+    Р›РѕР¶РєР° 89 Р§Р°СЃРёРєРё 2
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    918
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 89 Р§Р°СЃРёРєРё 2 8100255.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100255
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 89 Р§Р°СЃРёРєРё 2]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">14.78 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="89902"> 
+   <name>
+    Р›РѕР¶РєР° 91 Р‘РѕРіРѕСЂРѕРґРёС†Р°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    975.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 91 Р‘РѕРіРѕСЂРѕРґРёС†Р° 8100257.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100257
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 91 Р‘РѕРіРѕСЂРѕРґРёС†Р°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">16.11 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="91863"> 
+   <name>
+    Р›РѕР¶РєР° 93 Р&nbsp;РѕР·РѕС‡РєР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1728
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 93 Р&nbsp;РѕР·РѕС‡РєР° 8100259.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100259
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 93 Р РѕР·РѕС‡РєР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">32.66 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="92871"> 
+   <name>
+    Р›РѕР¶РєР° 94 РђРјС„РѕСЂР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1281.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 94 РђРјС„РѕСЂР° 8100261.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100261
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 94 РђРјС„РѕСЂР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">23.11 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="93192"> 
+   <name>
+    Р›РѕР¶РєР° 101 РќРёРєРѕР»Р°Р№ Р§СѓРґРѕС‚РІРѕСЂРµС†
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1101.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 101 РќРёРєРѕР»Р°Р№ Р§СѓРґРѕС‚РІРѕСЂРµС† 8100267.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100267
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 101 РќРёРєРѕР»Р°Р№ Р§СѓРґРѕС‚РІРѕСЂРµС†]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">18.31 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="98016"> 
+   <name>
+    Р›РѕР¶РєР° 109 РЈР·РѕСЂ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1303.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 109 РЈР·РѕСЂ 8100284.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100284
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 109 РЈР·РѕСЂ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">23.57 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="97995"> 
+   <name>
+    Р›РѕР¶РєР° 108 РџР°РІР»РёРЅР°
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1317.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 108 РџР°РІР»РёРЅР° 8100283.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100283
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 108 РџР°РІР»РёРЅР°]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">23.01 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="102983"> 
+   <name>
+    Р›РѕР¶РєР° 110 РћСЂРЅР°РјРµРЅС‚
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1056.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р›РѕР¶РєР° 110 РћСЂРЅР°РјРµРЅС‚ 8100302.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100302
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 110 РћСЂРЅР°РјРµРЅС‚]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">17.97 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="102984"> 
+   <name>
+    Р›РѕР¶РєР° 116 СЃС‚РѕР» Р­Р»РµРіР°РЅС‚
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    2707.2
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 116 СЃС‚РѕР» Р­Р»РµРіР°РЅС‚ 8100303.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100303
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 116 СЃС‚РѕР» Р­Р»РµРіР°РЅС‚]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">52.37 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="109925"> 
+   <name>
+    Р›РѕР¶РєР° 111 С‡Р°Р№РЅ Р&#xfffd;РґРёР»Р»РёСЏ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    1422
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 111 С‡Р°Р№РЅ Р&#xfffd;РґРёР»Р»РёСЏ 8100391.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100391
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 111 С‡Р°Р№РЅ Р�РґРёР»Р»РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">23.70 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="110974"> 
+   <name>
+    РќРѕР¶ Р&#xfffd;РґРёР»Р»РёСЏ
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    3114
+   </price> 
+   <image>
+    РќРѕР¶ Р&#xfffd;РґРёР»Р»РёСЏ 8100402.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100402
+   </vendorCode> 
+   <description><![CDATA[РќРѕР¶ Р�РґРёР»Р»РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">40.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">29.70 РіСЂ.</param> 
+  </item> 
+  <item id="110975"> 
+   <name>
+    Р›РѕР¶РєР° 114 РєРѕС„РµР№РЅ Р&#xfffd;РґРёР»Р»РёСЏ
+   </name> 
+   <categoryId>
+    1040
+   </categoryId> 
+   <price>
+    937.8
+   </price> 
+   <image>
+    Р›РѕР¶РєР° 114 РєРѕС„РµР№РЅ Р&#xfffd;РґРёР»Р»РёСЏ 8100403.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100403
+   </vendorCode> 
+   <description><![CDATA[Р›РѕР¶РєР° 114 РєРѕС„РµР№РЅ Р�РґРёР»Р»РёСЏ]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">13.41 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="118274"> 
+   <name>
+    РќРѕР¶ Р&nbsp;РѕР·РѕС‡РєР° 2
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    3027.6
+   </price> 
+   <image>
+    РќРѕР¶ Р&nbsp;РѕР·РѕС‡РєР° 2 8100431.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100431
+   </vendorCode> 
+   <description><![CDATA[РќРѕР¶ Р РѕР·РѕС‡РєР° 2]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">38.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">42.81 РіСЂ.</param> 
+  </item> 
+  <item id="118275"> 
+   <name>
+    РќРѕР¶ Р¤Р°РЅС‚Р°Р·РёСЏ 2
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    3198.6
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/РќРѕР¶ Р¤Р°РЅС‚Р°Р·РёСЏ 2 8100432.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100432
+   </vendorCode> 
+   <description><![CDATA[РќРѕР¶ Р¤Р°РЅС‚Р°Р·РёСЏ 2]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">42.00 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">42.81 РіСЂ.</param> 
+  </item> 
+  <item id="118522"> 
+   <name>
+    Р’РёР»РєР° РђРЅРіРµР»
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    1348.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р’РёР»РєР° РђРЅРіРµР» 8100434.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100434
+   </vendorCode> 
+   <description><![CDATA[Р’РёР»РєР° РђРЅРіРµР»]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">23.05 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="118523"> 
+   <name>
+    Р’РёР»РєР° Р§Р°СЃРёРєРё
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    1510.2
+   </price> 
+   <image>
+    https://s2.ho.ua/fm.cgi?action=view&amp;file=htdocs/pics_silv/Р’РёР»РєР° Р§Р°СЃРёРєРё 8100435.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100435
+   </vendorCode> 
+   <description><![CDATA[Р’РёР»РєР° Р§Р°СЃРёРєРё]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ (РІ СЃРµСЂРµР±СЂРµ)">26.96 РіСЂ.</param> 
+   <param name="РІРµСЃ (РІ Р·РѕР»РѕС‚Рµ)">0.00 РіСЂ.</param> 
+   <param name="РІРµСЃ РІСЃС‚Р°РІРѕРє)">0.00 РіСЂ.</param> 
+  </item> 
+  <item id="112387"> 
+   <name>
+    РќРѕР¶ Р&#xfffd;РґРёР»Р»РёСЏ 2
+   </name> 
+   <categoryId>
+    1059
+   </categoryId> 
+   <price>
+    3114
+   </price> 
+   <image>
+    РќРѕР¶ Р&#xfffd;РґРёР»Р»РёСЏ 2 8100416.jpg
+   </image> 
+   <vendor>
+    РўРћР’ Р’РљРџ "Р‘Р&nbsp;Р®РЎ"
+   </vendor> 
+   <vendorCode>
+    8100416
+   </vendorCode> 
+   <description><![CDATA[РќРѕР¶ Р�РґРёР»Р»РёСЏ 2]]>
+   </description> 
+   <available>
+    true
+   </available> 
+   <param name="РІРµСЃ 
